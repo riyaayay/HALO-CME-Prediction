@@ -6,7 +6,7 @@ This notebook implements a hybrid CNN-LSTM architecture ("ATSFusion") to detect 
 ## 🔍 Dataset
 - *VELC*: FITS-format solar images
 - *ASPEX*: CDF-format proton flux time-series
-> ⚠ Datasets not included in this repo due to size. Please contact [your email or mention organization] for access or use your own formatted data.
+> ⚠ Datasets not included in this repo due to size. Please contact [riyarathod415@gmail.com] for access or use your own formatted data.
 
 ## 🚀 How to Run
 1. Install dependencies in a Jupyter/Colab environment.
